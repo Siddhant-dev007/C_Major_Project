@@ -25,7 +25,7 @@ The application supports displaying exchange rates for particular months or year
 
 🧠 Concepts Demonstrated
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Concept	Usage in Project  
+Concept	Usage in Project                               |
 File Handling (fopen(), fgets(), fprintf(), rewind())  |           	Reading & writing data  
 Structures                                             |        Storing country information  
 2D arrays	                                             |             CSV column parsing  
