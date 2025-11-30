@@ -251,7 +251,7 @@ void StoreRatesForAllCountriesInYear(FILE *fp, int MonthorYear)
     int MAX_HEADER_LEN = 16;
     char line[MAX_LINE];
     char *columns[MAX_COLS];
-    char headers[MAX_COLS][MAX_HEADER_LEN];  // persistent storage for headers
+    char headers[MAX_COLS][MAX_HEADER_LEN];  
     int colCount = 0;
     char year[10];
     char storeFilename[100] = "C:/Personal/Siddhant/";
