@@ -25,36 +25,36 @@ The application supports displaying exchange rates for particular months or year
 
 ##🧠 Concepts Demonstrated
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Concept	Usage in Project
-File Handling (fopen(), fgets(), fprintf(), rewind())           	Reading & writing data
-Structures                                                      Storing country information
-2D arrays	                                                          CSV column parsing
-Functions	                                                            Modular design
-String manipulation	                                          Parsing CSV rows and searching
-Algorithmic processing	                                         Statistical calculations
+Concept	Usage in Project  
+File Handling (fopen(), fgets(), fprintf(), rewind())           	Reading & writing data  
+Structures                                                      Storing country information  
+2D arrays	                                                          CSV column parsing  
+Functions	                                                            Modular design  
+String manipulation	                                          Parsing CSV rows and searching  
+Algorithmic processing	                                         Statistical calculations  
 
 
 ##🧱 System Architecture & Module Overview
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Main Menu
- ├── ShowRatesForYear()
- ├── ShowRatesForMonth()
- ├── AnalyzeCountryBetweenYears()
- ├── StoreRatesForAllCountriesInYear()
- ├── ReadCountries()
- └── Exit
+Main Menu  
+ ├── ShowRatesForYear()  
+ ├── ShowRatesForMonth()  
+ ├── AnalyzeCountryBetweenYears()  
+ ├── StoreRatesForAllCountriesInYear()  
+ ├── ReadCountries()  
+ └── Exit  
  
 
 ##📂 Directory Structure
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###📦 Exchange-Rate-Viewer
-├── main.c
-├── exchange.c
-├── exchange.h
-
+###📦 Exchange-Rate-Viewer  
+├── main.c  
+├── exchange.c  
+├── exchange.h  
+ 
 
 ##🏁 Conclusion
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The Exchange Rate Viewer demonstrates practical use of C programming to analyze real financial datasets. By integrating file handling, structured data storage, and statistical computation, the system offers efficient tools for currency trend analysis and can be extended into financial and banking applications.
+The Exchange Rate Viewer demonstrates practical use of C programming to analyze real financial datasets. By integrating file handling, structured data storage, and   statistical computation, the system offers efficient tools for currency trend analysis and can be extended into financial and banking applications.  
 
 
