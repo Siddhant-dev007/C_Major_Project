@@ -26,12 +26,13 @@ The application supports displaying exchange rates for particular months or year
 🧠 Concepts Demonstrated
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Concept	Usage in Project  
-File Handling (fopen(), fgets(), fprintf(), rewind())  |           	Reading & writing data  
-Structures                                             |        Storing country information  
-2D arrays	                                             |             CSV column parsing  
-Functions	                                             |              Modular design  
-String manipulation	                                   |        Parsing CSV rows and searching  
-Algorithmic processing	                                |            tatistical calculations  
+|-------------------------------------------------------|-----------------------------------------|
+|File Handling (fopen(), fgets(), fprintf(), rewind())  |           	Reading & writing data       |
+|Structures                                             |        Storing country information      |
+|2D arrays	                                             |             CSV column parsing          |
+|Functions	                                             |              Modular design             |
+|String manipulation	                                   |        Parsing CSV rows and searching   | 
+|Algorithmic processing	                                |           statistical calculations      |
 
 
 🧱 System Architecture & Module Overview
