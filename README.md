@@ -54,7 +54,7 @@ Main Menu
 👤 Author
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Siddhant Sharma : Sole developer
--
+
 🏁 Conclusion
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Exchange Rate Viewer demonstrates practical use of C programming to analyze real financial datasets. By integrating file handling, structured data storage, and   statistical computation, the system offers efficient tools for currency trend analysis and can be extended into financial and banking applications.  
