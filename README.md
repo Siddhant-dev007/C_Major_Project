@@ -3,14 +3,14 @@
 
 An interactive console-based Currency Exchange Rate Analysis System developed in C language, designed to read, display, and analyze historical currency exchange rate data from CSV files using modular programming and file handling concepts.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##📌 Project Summary
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project enables users to view exchange rates for multiple currencies over specified periods, analyse trends between years, and store formatted data in text files. Built using standard C libraries, it demonstrates efficient CSV parsing, console UI navigation, and modular system design.
 
 The application supports displaying exchange rates for particular months or years, performing comparative analysis between two-year ranges, and exporting results for external use.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##✨ Key Features
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ The application supports displaying exchange rates for particular months or year
 •	Colorized and paginated terminal output for easy readability
 •	Efficient CSV parsing and menu-based navigation
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##🧠 Concepts Demonstrated
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Concept	Usage in Project
@@ -33,7 +33,7 @@ Functions	                                                            Modular de
 String manipulation	                                          Parsing CSV rows and searching
 Algorithmic processing	                                         Statistical calculations
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##🧱 System Architecture & Module Overview
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Main Menu
@@ -44,7 +44,7 @@ Main Menu
  ├── ReadCountries()
  └── Exit
  
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##📂 Directory Structure
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###📦 Exchange-Rate-Viewer
@@ -52,9 +52,9 @@ Main Menu
 ├── exchange.c
 ├── exchange.h
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ##🏁 Conclusion
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Exchange Rate Viewer demonstrates practical use of C programming to analyze real financial datasets. By integrating file handling, structured data storage, and statistical computation, the system offers efficient tools for currency trend analysis and can be extended into financial and banking applications.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
