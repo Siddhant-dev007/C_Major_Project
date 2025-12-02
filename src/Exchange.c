@@ -7,8 +7,8 @@
 int colorchoice = 0;
 CurrencyInfo structCountry[MAX_COUNTRIES];
 
-const char ShowRatesForYear_Title[100] = "Display Exchange Rate for Code/Country for a month";
-const char ShowRatesForMonth_Title[100] = "Display Exchange Rate for Code/Country for a Year";
+const char ShowRatesForYear_Title[100] = "Display Exchange Rate for Code/Country for a year";
+const char ShowRatesForMonth_Title[100] = "Display Exchange Rate for Code/Country for a month";
 const char AnalyzeCountryBetweenYears_Title[100] = "Analyze Exchange Rate for Code/Country between Years";
 const char ShowRatesForAllCountriesInYear_Title[100] = "Exchange Rate for All Countries for a Year";
 
